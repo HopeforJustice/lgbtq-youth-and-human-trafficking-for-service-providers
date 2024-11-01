@@ -1,0 +1,32 @@
+{
+  "version": "3.93.33359.0",
+  "course_id": "6ouY7XsJ8yY_course_id",
+  "title": "Human Trafficking in the U.S. Hospitality Industry",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qSqUjBUuoF",
+      "title": "Human Trafficking in the U.S. Hospitality Industry",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6R7YTqpEnDN",
+      "title": "Certificate",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1284,
+    "height": 647
+  },
+  "stage": {
+    "width": 1024,
+    "height": 576
+  }
+}
